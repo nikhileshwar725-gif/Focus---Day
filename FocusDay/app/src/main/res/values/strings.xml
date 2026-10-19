@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Focus Day</string>
+    <string name="service_desc">Detects Instagram and YouTube opening so Focus Day can pause or block them. Only watches which app is in front. Reads no screen content and sends nothing off the device.</string>
+</resources>
